@@ -1,17 +1,17 @@
 {
-  "name": "AFK Bot",
+  "name": "50% anarchy",
   "bot-account": {
-    "username": "Technoblade",
-    "password": "",
+    "username": "50% Anarchy",
+    "password": "50%",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "HalfAnarchy.aternos.me",
+    "port": 59977,
     "version": "1.21.1"
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "https://discord.gg/Q6tHBB36RM",
+        "Server Online!",
+        "having problems? Make a ticket inside the discord server https://discord.gg/Q6tHBB36RM"
       ]
     },
     "chat-log": true,
@@ -78,14 +78,14 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "webhookUrl": "https://discord.com/api/webhooks/1491568658965860434/OoVd8roVkHDBFX_zFC9gTqAvyVJoXK_-pJ_4mMSwwAGpgzuuzE_sGjnHBQeTilFqrfVr",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
