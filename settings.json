@@ -1,12 +1,12 @@
 {
-  "name": "50% anarchy",
+  "name": "OrbitSMP",
   "bot-account": {
-    "username": "50% Anarchy",
-    "password": "50%",
+    "username": "OrbitSMP",
+    "password": "ORBIT",
     "type": "offline"
   },
   "server": {
-    "ip": "HalfAnarchy.aternos.me",
+    "ip": "orbitsmp9.aternos.me",
     "port": 59977,
     "version": "1.21.1"
   },
